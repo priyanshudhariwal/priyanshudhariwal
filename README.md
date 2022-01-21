@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![8AHAoTf](https://user-images.githubusercontent.com/55185263/150576172-0e5ba03a-686f-4923-8e73-1a298ae4ef58.gif) -->
-<img src="https://user-images.githubusercontent.com/55185263/150576172-0e5ba03a-686f-4923-8e73-1a298ae4ef58.gif" align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55185263/150576172-0e5ba03a-686f-4923-8e73-1a298ae4ef58.gif" align="center">
+</p>
